@@ -1,7 +1,7 @@
 #                        Dentelo. - Dental Website
                 Dentelo is a fully responsive dental website,
          Responsive for all devices, build using HTML, CSS, and JavaScript.
-Demo Screenshot:
+## Demo Screenshot:
 
 ![Blue and White Modern SEO Keyword Research Tutorial Youtube Thumbnail](https://github.com/user-attachments/assets/de7bcbc6-0265-4ecc-ae89-ec3f6b9bc9d2)
 
