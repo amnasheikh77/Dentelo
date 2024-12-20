@@ -20,12 +20,12 @@ To run x.com locally, run this command on your git bash:
 
 ### windows:
 ```bash
-  git clone https://github.com/amnasheikh77/x.com-Responsive-Web-Project.git
+  git clone https://github.com/amnasheikh77/Dentelo.git
 ```
 
 ### linux and macOS:
 ```bash
-  sudo git clone https://github.com/amnasheikh77/x.com-Responsive-Web-Project.git
+  sudo git clone https://github.com/amnasheikh77/Dentelo.git
 ```
 
 
