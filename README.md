@@ -1,10 +1,10 @@
-<div style="text-align: center;">
-  <h3>Dentelo - Dental Website</h3>
-<hr>
-                    <p>Dentelo is a fully responsive dental website,</p>
-         <p>Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
+## Dentelo - Dental Website
+
+                          Dentelo is a fully responsive dental website,
+                 Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+                 
   <a href="https://amnasheikh77.github.io/Dentelo/" target="_blank" class="live-demo-button">Live website Demo</a>
-</div>
 
 ## Demo Screenshot:
 
