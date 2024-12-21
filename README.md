@@ -1,9 +1,12 @@
-##                       Dentelo. - Dental Website
-                Dentelo is a fully responsive dental website,
-         Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-                           [Live website demo](https://amnasheikh77.github.io/Dentelo/)
-         
+<div style="text-align: center;">
+  # Dentelo - Dental Website 
+</div>
+                <p>Dentelo is a fully responsive dental website,</p><br>
+         <p>Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
+         <div style="text-align: center;">
+           <a href="https://amnasheikh77.github.io/Dentelo/" target="_blank" class="live-demo-button">Live website Demo</a>
+         </div>
+                   
 ## Demo Screenshot:
 
 ![Blue and White Modern SEO Keyword Research Tutorial Youtube Thumbnail](https://github.com/user-attachments/assets/de7bcbc6-0265-4ecc-ae89-ec3f6b9bc9d2)
