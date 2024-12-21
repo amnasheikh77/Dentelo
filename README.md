@@ -3,8 +3,9 @@
 <hr>
                     <p>Dentelo is a fully responsive dental website,</p>
          <p>Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
-           <a href="https://amnasheikh77.github.io/Dentelo/" target="_blank" class="live-demo-button">Live website Demo</a>
+  <a href="https://amnasheikh77.github.io/Dentelo/" target="_blank" class="live-demo-button">Live website Demo</a>
 </div>
+
 ## Demo Screenshot:
 
 ![Blue and White Modern SEO Keyword Research Tutorial Youtube Thumbnail](https://github.com/user-attachments/assets/de7bcbc6-0265-4ecc-ae89-ec3f6b9bc9d2)
